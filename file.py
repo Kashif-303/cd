@@ -314,7 +314,7 @@ def rcrack(uid,pwx,tl):
             "method": 'GET',
             "scheme": 'https',
             "accept": 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
-            "accept-encoding": 'gzip, deflate, br'
+            "accept-encoding": 'gzip, deflate, br',
             "accept-language": 'en-US,en;q=0.9,es;q=0.8',
             'cache-control': 'max-age=0',
             "referer": 'https://t.facebook.com/',
